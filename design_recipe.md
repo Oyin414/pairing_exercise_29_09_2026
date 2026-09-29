@@ -23,20 +23,22 @@ Order is kept: names appear in the same order they were given.
 ## 2 function signature
 ```python
 # Parameters:
-# - 
+# - to have one parameter which is a list
 # Return type:
-# - 
+# - string of names
 # Side Effects:
-# - 
-def your_function():
+# - none
+def display_members():
     pass
 ```
 
 ## 3 exampples
 ```python
-# scenario 1
+# scenario 1 - display members when list is empty 
 
-# scenario 2
+# scenario 2 - display when there is a single participant
 
-# scenario 3
+# scenario 3 - when there's 2 an joined with an ampersand
+
+# scenario 4 - when there's 3 joined with a comma and an ampersand
 ```
